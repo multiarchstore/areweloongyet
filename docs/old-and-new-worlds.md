@@ -50,13 +50,13 @@ MIPS 型号的龙芯既不是新世界也不是旧世界。
 
 如果符合以下任一条件，你就在用**旧世界**：
 
-* 系统是麒麟、Loongnix、UOS 其中之一
+* 系统是麒麟 V10、Loongnix 20、UOS V20 其中之一
 * 内核版本以 4.19 开头
 * 有 WPS 用但没有安装过 `libLoL` 等旧世界兼容方案
 
 如果一条都没中，你就在用**新世界**。
 
-这个判断方法是基于 2024 年 2 月的已知信息设计的。
+这个判断方法是基于 2026 年 4 月的已知信息设计的。
 后续如果没及时更新，可能会不准。
 
 ## 手头这软件是哪个世界的？
@@ -128,9 +128,9 @@ Macintosh 电脑的不同型号就使用 Old World、New World 来区分。
 
 目前已知的旧世界发行版（移植）有：（按英文名字母顺序排序）
 
-* 麒麟 (Kylin)
-* Loongnix
-* UOS
+* 麒麟 (Kylin) V10
+* Loongnix 20
+* UOS V20
 
 目前已知的新世界发行版（移植）有：（按英文名字母顺序排序）
 
@@ -140,7 +140,9 @@ Macintosh 电脑的不同型号就使用 Old World、New World 来区分。
 * [Debian](https://wiki.debian.org/Ports/loong64)
 * [Fedora LoongArch Remix](https://github.com/fedora-remix-loongarch/releases-info)
 * [Gentoo](https://wiki.gentoo.org/wiki/Project:LoongArch)
+* [麒麟 (Kylin) V11](https://www.kylinos.cn/productPc/desktop/desktopMainV11/)
 * [Loong Arch Linux](https://github.com/loongarchlinux)
+* [Loongnix 25](https://www.loongnix.cn/zh/loongnix/)
 * [Slackware](https://github.com/shipujin/slackware-loongarch64)
 * [Yongbao](https://github.com/sunhaiyong1978/Yongbao)
 

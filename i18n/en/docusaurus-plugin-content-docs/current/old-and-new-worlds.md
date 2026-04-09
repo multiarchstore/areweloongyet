@@ -40,13 +40,13 @@ The terms "旧世界" and "新世界" are translated into English as "the old wo
 
 If any of the following conditions apply, you are using the **old world**:
 
-* The system is one of Kylin, Loongnix, or UOS.
+* The system is one of Kylin V10, Loongnix 20, or UOS V20.
 * The kernel version starts with 4.19.
 * You use WPS but have not installed `libLoL` or other old-world compatibility solutions.
 
 If none of these conditions apply, you are using the **new world**.
 
-This method of determination is based on known information as of February 2024. It may become inaccurate if not updated in time.
+This method of determination is based on known information as of April 2026. It may become inaccurate if not updated in time.
 
 ## Which World Does This Software Belong To?
 
@@ -92,9 +92,9 @@ On the other hand, users of Linux source-based distributions (such as Gentoo) of
 **Available distributions.** Old-world distributions are only produced by a few commercial companies because the full source code is not publicly available. All community distributions belong to the new world.
 
 Known old-world (ports) distributions (alphabetical):
-* 麒麟 (Kylin)
-* Loongnix
-* UOS
+* 麒麟 (Kylin) V10
+* Loongnix 20
+* UOS V20
 
 Known new-world (ports) distributions (alphabetical):
 * [ALT Linux](https://www.altlinux.org/Ports/loongarch64)
@@ -103,7 +103,10 @@ Known new-world (ports) distributions (alphabetical):
 * [Debian](https://wiki.debian.org/Ports/loong64)
 * [Fedora LoongArch Remix](https://github.com/fedora-remix-loongarch/releases-info)
 * [Gentoo](https://wiki.gentoo.org/wiki/Project:LoongArch)
+* [麒麟 (Kylin) V11](https://www.kylinos.cn/productPc/desktop/desktopMainV11/)
+
 * [Loong Arch Linux](https://github.com/loongarchlinux)
+* [Loongnix 25](https://www.loongnix.cn/zh/loongnix/)
 * [Slackware](https://github.com/shipujin/slackware-loongarch64)
 * [Yongbao](https://github.com/sunhaiyong1978/Yongbao)
 
